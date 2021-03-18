@@ -1,0 +1,28 @@
+* {
+    background-color: #E7F2F8;
+    letter-spacing: 2px;
+}
+
+.container {
+    margin: 200px auto;
+    text-align: center;
+}
+
+#val {
+    font-weight: 10px;
+    font-size: 150px;
+}
+
+.btn {
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    outline: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    color: #E7F2F8;
+    background-color: black;
+}
